@@ -248,11 +248,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 595103472}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52bce55393dc6483e83349b2f281fd62, type: 3}
+  m_Script: {fileID: 11500000, guid: 5295fca49fe204fe9a6cd833b6a21448, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   pipePrefab: {fileID: 890204544}
-  randomHeight: 0.5
 --- !u!1 &890204544 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4577754712150325102, guid: fdb9927516b8b4829a1c3c64e269dfe3, type: 3}
